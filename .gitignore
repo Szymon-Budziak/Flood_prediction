@@ -163,3 +163,4 @@ cython_debug/
 .Rproj.user
 .DS_Store
 *.ipynb
+*.csv
