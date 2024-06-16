@@ -1,7 +1,7 @@
 # Flood prediction
 
 This project aims to predict flood probability based on various features. The dataset used is from
-the [Regression with a Flood Prediction Dataset](https://www.kaggle.com/competitions/playground-series-s4e5). 
+the [Regression with a Flood Prediction Dataset](https://www.kaggle.com/competitions/playground-series-s4e5) from Kaggle. 
 The project was done in Python and R.
 
 ## Installation
